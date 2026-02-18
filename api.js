@@ -3,7 +3,7 @@
    =================================================== */
 
 // ⚠️ CHANGE THIS to your Vercel deployment URL after deploying
-const API_BASE = 'http://localhost:3000';
+const API_BASE = 'https://staffclock-ten.vercel.app';
 
 const api = {
     _token: localStorage.getItem('ss_token'),
